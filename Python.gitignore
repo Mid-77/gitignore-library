@@ -1,0 +1,25 @@
+# Python bytecode (ملفات تشغيل بايثون المؤقتة)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (البيئات الافتراضية - ضروري جداً لتجنب رفع آلاف الملفات)
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints (لملفات تحليل البيانات)
+.ipynb_checkpoints
+
+# VS Code settings (إعدادات المحرر الخاصة بك فقط)
+.vscode/
+
+# OS generated files (ملفات النظام)
+.DS_Store
+Thumbs.db
+
+# Data files (تجاهل ملفات البيانات الضخمة إذا كنت لا تريد رفعها)
+*.csv
+*.xlsx
+*.sqlite
