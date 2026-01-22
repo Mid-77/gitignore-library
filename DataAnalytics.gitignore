@@ -1,0 +1,12 @@
+# Office temporary files (ملفات أوفيس المؤقتة)
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Power BI binaries (ملفات الباور بي آي الضخمة)
+*.pbix
+*.pbit
+
+# Local database locks (ملفات أقفال قواعد البيانات المحلية)
+*.ldb
+*.laccdb
