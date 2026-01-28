@@ -1,0 +1,16 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# WSL/Linux temporary files
+*.swp
+*~
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python (if you start learning it)
+__pycache__/
+*.py[cod]
